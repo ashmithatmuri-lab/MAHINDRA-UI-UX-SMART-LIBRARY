@@ -81,9 +81,7 @@ Goal: “Borrow or reserve in under a minute.”
 
 ---
 
-## 🪄 Prototype  
-🔗 [View Figma Prototype](#) *(insert your link)*  
-Includes: Borrow flow, Room booking, Returns, and Dashboard interactions.
+
 
 ---
 
