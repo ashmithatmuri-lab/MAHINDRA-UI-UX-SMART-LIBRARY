@@ -1,0 +1,7 @@
+{
+  "name": "Bruno",
+  "description": "A mobile-first user interface for Bruno, a Smart Library & Resource Booking System. Instantly search, reserve, borrow, and return resources like books, rooms, and equipment with minimal effort.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
